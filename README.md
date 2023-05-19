@@ -9,4 +9,4 @@ Kaggle dataset: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-datas
 This dataset has: 10K train images(5K with Mask and 5K without mask) & 992 test images(483 with Mask and 509 without Mask)
 
 ## Sample Output file
-![Sample Output]()
+![Sample Output](https://github.com/Rohansorathiya/face_mask_detector/blob/main/sample%20output.png)
